@@ -1,0 +1,11 @@
+package myPractice5;
+
+class Practice5 {
+
+	public static void main(String[] args) {
+		System.out.println("\"Thank you all for " + "coming to my home\ntonight,\"he said " +
+	                        "mysteriously.");
+
+	}
+
+}
